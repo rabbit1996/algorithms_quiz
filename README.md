@@ -6,3 +6,6 @@
 * 124 나라의 수 | python3 https://programmers.co.kr/learn/courses/30/lessons/12899
 * 주식가격 | python3 https://programmers.co.kr/learn/courses/30/lessons/42584
 * 2xN 타일링 | python3 https://programmers.co.kr/learn/courses/30/lessons/12900 | 200925
+* 기능개발 | python3 https://programmers.co.kr/learn/courses/30/lessons/42586 | 200926
+* K번째수 | python3 https://programmers.co.kr/learn/courses/30/lessons/42748 | 200926
+* 프린터 | python3 https://programmers.co.kr/learn/courses/30/lessons/42587 | 200927
