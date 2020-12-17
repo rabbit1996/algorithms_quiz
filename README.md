@@ -11,3 +11,6 @@
 * 프린터 | python3 https://programmers.co.kr/learn/courses/30/lessons/42587 | 200927
 * 문자열 내 마음대로 정렬하기 | python3 https://programmers.co.kr/learn/courses/30/lessons/12915 | 200929
 * 서울에서 김서방 찾기 | python3 https://programmers.co.kr/learn/courses/30/lessons/12919 | 200929
+* 다리를 지나는 트럭 | python3 https://programmers.co.kr/learn/courses/30/lessons/42583 | 201004
+* 위장 | python3 https://programmers.co.kr/learn/courses/30/lessons/42578 | 201004
+* Birthday Cake Candle | python3 https://www.hackerrank.com/challenges/birthday-cake-candles/problem | 201218
