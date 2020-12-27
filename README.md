@@ -17,3 +17,4 @@
 * Time Conversion | python3 https://www.hackerrank.com/challenges/time-conversion/problem | 201218
 * Knapsack | python3 https://www.hackerrank.com/challenges/unbounded-knapsack/problem | 201219
 * Grading Students | python3 https://www.hackerrank.com/challenges/grading/problem | 201219
+* 백준 2108 통계학 | python3 https://www.acmicpc.net/problem/2108 | 201227
