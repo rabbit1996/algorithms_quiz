@@ -21,3 +21,5 @@
 * 백준 11650 좌표 정렬하기 | python3 www.acmicpc.net/problem/11650 | 201228
 * 백준 11651 좌표 정렬하기 2 | python3 www.acmicpc.net/problem/11651 | 201228
 * 백준 1181 단어정렬 | python3 www.acmicpc.net/problem/1181 | 201229
+* 백준 10814 나이순 정렬 | python3 https://www.acmicpc.net/problem/10814 | 201230
+* 백준 11047 동전 0 | python3 https://www.acmicpc.net/problem/11047 | 201230
