@@ -23,3 +23,5 @@
 * 백준 1181 단어정렬 | python3 www.acmicpc.net/problem/1181 | 201229
 * 백준 10814 나이순 정렬 | python3 https://www.acmicpc.net/problem/10814 | 201230
 * 백준 11047 동전 0 | python3 https://www.acmicpc.net/problem/11047 | 201230
+* 백준 2798 블랙잭 | python3 https://www.acmicpc.net/problem/2798 | 210101
+* 백준 2231 분해합 | python3 https://www.acmicpc.net/problem/2231 | 210101
