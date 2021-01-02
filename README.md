@@ -25,3 +25,4 @@
 * 백준 11047 동전 0 | python3 https://www.acmicpc.net/problem/11047 | 201230
 * 백준 2798 블랙잭 | python3 https://www.acmicpc.net/problem/2798 | 210101
 * 백준 2231 분해합 | python3 https://www.acmicpc.net/problem/2231 | 210101
+* 백준 11729 하노이 탑 이동 순서 | python3 https://www.acmicpc.net/problem/11729 | 210102
