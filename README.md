@@ -26,3 +26,5 @@
 * 백준 2798 블랙잭 | python3 https://www.acmicpc.net/problem/2798 | 210101
 * 백준 2231 분해합 | python3 https://www.acmicpc.net/problem/2231 | 210101
 * 백준 11729 하노이 탑 이동 순서 | python3 https://www.acmicpc.net/problem/11729 | 210102
+* 백준 7568 덩치 | python3 www.acmicpc.net/problem/7568 | 210110
+* 백준 1018 체스판 다시 칠하기 | python3 https://www.acmicpc.net/problem/1018 | 210110
