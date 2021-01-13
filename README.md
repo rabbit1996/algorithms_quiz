@@ -30,4 +30,5 @@
 * 백준 1018 체스판 다시 칠하기 | python3 https://www.acmicpc.net/problem/1018 | 210110
 * 백준 1436 영화감독 숌 | python3 https://www.acmicpc.net/problem/1436 | 210111
 * 백준 1003 피보나치 함수 | python3 https://www.acmicpc.net/problem/1003 | 210112
-* 백준 9184 신나는 함수 실행 | python3 https://www.acmicpc.net/problem/9184 | 200112
+* 백준 9184 신나는 함수 실행 | python3 https://www.acmicpc.net/problem/9184 | 210112
+* 백준 1904 01타일 | python3 https://www.acmicpc.net/problem/1904 | 210113
