@@ -33,3 +33,5 @@
 * 백준 9184 신나는 함수 실행 | python3 https://www.acmicpc.net/problem/9184 | 210112
 * 백준 1904 01타일 | python3 https://www.acmicpc.net/problem/1904 | 210113
 * 프로그래머스 더 맵게 | python3 https://programmers.co.kr/learn/courses/30/lessons/42626?language=python3 | 210114
+* 백준 9012 괄호 | python3 https://www.acmicpc.net/problem/9012 | 210127
+* 백준 10250 ACM 호텔 | python3 https://www.acmicpc.net/problem/10250 | 210127
