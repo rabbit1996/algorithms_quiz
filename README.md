@@ -38,3 +38,4 @@
 * 백준 10814 나이순 정렬 | python3 https://www.acmicpc.net/problem/10814 | 210206
 * 백준 10816 숫자 카드 2 | python3 https://www.acmicpc.net/problem/10816 | 210206
 * 백준 10828 스택 | python3 https://www.acmicpc.net/problem/10828 | 210206
+* 백준 10845 큐 | python3 https://www.acmicpc.net/problem/10845 | 210209
