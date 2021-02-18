@@ -41,3 +41,4 @@
 * 백준 10845 큐 | python3 https://www.acmicpc.net/problem/10845 | 210209
 * 백준 10866 덱 | python3 https://www.acmicpc.net/problem/10866 | 210218
 * 백준 11050 이항 계수 | python3 https://www.acmicpc.net/problem/11050 | 210218
+* 백준 11866 요세푸스 문제 0 | python3 https://www.acmicpc.net/problem/11866 | 210219
