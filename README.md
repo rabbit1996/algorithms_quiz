@@ -42,3 +42,4 @@
 * 백준 10866 덱 | python3 https://www.acmicpc.net/problem/10866 | 210218
 * 백준 11050 이항 계수 | python3 https://www.acmicpc.net/problem/11050 | 210218
 * 백준 11866 요세푸스 문제 0 | python3 https://www.acmicpc.net/problem/11866 | 210219
+* 백준 1654 랜선 자르기 | python3 https://www.acmicpc.net/problem/1654 | 210220
