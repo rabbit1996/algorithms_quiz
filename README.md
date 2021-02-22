@@ -44,3 +44,5 @@
 * 백준 11866 요세푸스 문제 0 | python3 https://www.acmicpc.net/problem/11866 | 210219
 * 백준 1654 랜선 자르기 | python3 https://www.acmicpc.net/problem/1654 | 210220
 * 백준 1620 나는야 포켓몬 마스터 이다솜 | python3 https://www.acmicpc.net/problem/1620 | 210221
+* 백준 2805 나무 자르기 | python3 https://www.acmicpc.net/problem/2805 | 210222
+* 백준 1074 Z | python3 https://www.acmicpc.net/problem/1074 | 210222
